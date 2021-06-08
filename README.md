@@ -19,3 +19,8 @@ Themes ported from macOS to WinDynamicDesktop
 | <p>**Peak**</p> [![Peak](images/Peak.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/Peak.ddw) | <p>**The Beach**</p> [![The Beach](images/The_Beach.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/The_Beach.ddw) |
 | <p>**The Cliffs**</p> [![The Cliffs](images/The_Cliffs.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/The_Cliffs.ddw) | <p>**The Desert**</p> [![The Desert](images/The_Desert.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/The_Desert.ddw) |
 | <p>**The Lake**</p> [![The Lake](images/The_Lake.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/The_Lake.ddw) | <p>**Tree**</p> [![Tree](images/Tree.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/big-sur/Tree.ddw) |
+
+## [Monterey](https://github.com/t1m0thyj/WDD-mac-themes/releases/tag/monterey)
+
+| [![Monterey Abstract](images/Monterey_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/monterey/Monterey_Abstract.ddw) |
+| :---: |
