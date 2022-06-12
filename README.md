@@ -24,3 +24,8 @@ Themes ported from macOS to WinDynamicDesktop
 
 | [![Monterey Abstract](images/Monterey_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/monterey/Monterey_Abstract.ddw) |
 | :---: |
+
+## [Ventura](https://github.com/t1m0thyj/WDD-mac-themes/releases/tag/ventura)
+
+| [![Ventura Abstract](images/Ventura_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/ventura/Ventura_Abstract.ddw) |
+| :---: |
