@@ -29,3 +29,8 @@ Themes ported from macOS to WinDynamicDesktop
 
 | [![Ventura Abstract](images/Ventura_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/ventura/Ventura_Abstract.ddw) |
 | :---: |
+
+## [Sonoma](https://github.com/t1m0thyj/WDD-mac-themes/releases/tag/sonoma)
+
+| [![Sonoma Abstract](images/Sonoma_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/sonoma/Sonoma_Abstract.ddw) |
+| :---: |
