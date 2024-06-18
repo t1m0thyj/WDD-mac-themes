@@ -34,3 +34,8 @@ Themes ported from macOS to WinDynamicDesktop
 
 | [![Sonoma Abstract](images/Sonoma_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/sonoma/Sonoma_Abstract.ddw) |
 | :---: |
+
+## [Sequoia](https://github.com/t1m0thyj/WDD-mac-themes/releases/tag/sequoia)
+
+| [![Sequoia](images/Sequoia_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/sequoia/Sequoia_Abstract.ddw) |
+| :---: |
