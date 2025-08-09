@@ -39,3 +39,8 @@ Themes ported from macOS to WinDynamicDesktop
 
 | [![Sequoia](images/Sequoia_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/sequoia/Sequoia_Abstract.ddw) |
 | :---: |
+
+## [Tahoe](https://github.com/t1m0thyj/WDD-mac-themes/releases/tag/tahoe)
+
+| [![Tahoe](images/Tahoe_Abstract.jpg)](https://github.com/t1m0thyj/WDD-mac-themes/releases/download/tahoe/Tahoe_Abstract.ddw) |
+| :---: |
